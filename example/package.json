@@ -11,7 +11,7 @@
     "start:server": "yarn build:server & nodemon ./dist"
   },
   "dependencies": {
-    "@react-native-masked-view/masked-view": "^0.2.6",
+    "@react-native-masked-view/masked-view": "^0.2.8",
     "@react-native-picker/picker": "^2.4.1",
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.1",
